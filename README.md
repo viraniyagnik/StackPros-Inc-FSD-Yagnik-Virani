@@ -9,7 +9,7 @@ Initially appeared on
 ## Getting Started
 
 app.py file
-[app.py]((https://github.com/viraniyagnik/StackPros-Inc-FSD-Yagnik-Virani/blob/main/app.py)
+[app.py](https://github.com/viraniyagnik/StackPros-Inc-FSD-Yagnik-Virani/blob/main/app.py)
 
 
 Dockerfile
